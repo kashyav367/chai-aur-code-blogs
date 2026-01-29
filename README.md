@@ -20,12 +20,12 @@ This repository contains all my published Hashnode blogs written as part of Web 
 - https://ankitkrsinghcurl.hashnode.dev/getting-started-with-curl?showSharer=true
 
 ## 🔹 HTML / CSS
--https://ankitkrsinghhtml.hashnode.dev/
+- https://ankitkrsinghhtml.hashnode.dev/
 - https://ankitkrcssselectors.hashnode.dev/
 - https://ankitkrsinghemmetforhtml.hashnode.dev/
 
 - ## 🔹 TCP & UDP
--https://ankitkrsinghtcp3way.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication?showSharer=true
+- https://ankitkrsinghtcp3way.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication?showSharer=true
 - https://ankitkrsinghtcpvsudpt.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http?showSharer=true
 
 
