@@ -40,7 +40,6 @@ This repository contains all my published Hashnode blogs written as part of Web 
 
 ---
 
-
 - ## 🔹 Arrow Functions in JavaScript: A Simpler Way to Write Functions
 - https://ankitkrsingharrowfunctions.hashnode.dev/arrow-functions-in-javascript-a-simpler-way-to-write-functions
 
