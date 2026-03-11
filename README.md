@@ -75,6 +75,6 @@ This repository contains all my published Hashnode blogs written as part of Web 
 ---
 
 -  ## 🔹Understanding Objects in JavaScript
-- hhttps://ankitkrsinghobject.hashnode.dev/understanding-objects-in-javascript
+- https://ankitkrsinghobject.hashnode.dev/understanding-objects-in-javascript
 
 
