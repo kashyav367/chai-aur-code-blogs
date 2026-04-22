@@ -82,4 +82,8 @@ This repository contains all my published Hashnode blogs written as part of Web 
 -  ## 🔹Understanding Object-Oriented Programming in JavaScrip
 - https://ankitkrsinghoops.hashnode.dev/understanding-object-oriented-programming-in-javascript
 
+---
+-- ## linux-file-system-hunting-how-i-explored
+- https://ankitsingh2003.hashnode.dev/linux-file-system-hunting-how-i-explored-what-s-really-happening-inside-linux
+
 
